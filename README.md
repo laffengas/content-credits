@@ -1,2 +1,4 @@
 # Laff Content Credits
-Catalog of contributors involved in my content creation.
+
+Catalog achknowledging the contributors and resources featured in my content.
+
