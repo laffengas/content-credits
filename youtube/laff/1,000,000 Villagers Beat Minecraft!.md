@@ -14,7 +14,7 @@
 * **[BetterMobs](https://discord.com/channels/252148970338385921/477570133884141578/984838617216200715)** - [McHorse](https://github.com/mchorse), [MichaelCreeper_](https://twitter.com/MichaelCreeper)
 * **[Bard Mania](https://www.curseforge.com/minecraft/mc-mods/bard-mania)** - [Aeronica](https://github.com/Aeronica)
 * **[MoreBlock](https://discord.com/channels/252148970338385921/477570133884141578/984838617216200715)** - [MichaelCreeper_](https://twitter.com/MichaelCreeper)
-* **[The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)** - [kingbdogz](https://github.com/kingbdogz), [OscarPayn](### [OscarPayn](https://github.com/OscarPayn), [bconlon1](https://github.com/bconlon1)
+* **[The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)** - [kingbdogz](https://github.com/kingbdogz), [OscarPayn](https://github.com/OscarPayn), [bconlon1](https://github.com/bconlon1)
 	* [The Aether Team's Patreon](https://www.patreon.com/TheAetherTeam)
 
 ## Models & Textures
